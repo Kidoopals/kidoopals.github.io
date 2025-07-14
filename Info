@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to Kidoopals!</title>
+    <style>
+      body { font-family: Comic Sans MS; background: #fef4e5; text-align: center; padding: 50px; }
+      h1 { color: #ff6600; }
+      p { font-size: 18px; color: #333; }
+    </style>
+  </head>
+  <body>
+    <h1>✨ Welcome to Kidoopals! ✨</h1>
+    <p>Magical stories and songs for happy little hearts 💖</p>
+    <p>Stay tuned – our world is under construction!</p>
+  </body>
+</html>
